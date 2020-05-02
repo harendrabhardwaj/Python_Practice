@@ -1,2 +1,2 @@
-# iNeuron
+# Python Practice
 Assignments
